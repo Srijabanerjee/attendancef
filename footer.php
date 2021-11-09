@@ -15,13 +15,15 @@
   </head>
   <body>
     <div class="div1">
+       <marquee>
       Designed and Developed by SRIJA BANERJEE & SHUBHAM KUMAR
+          </marquee>
     </div>
 
     <div class="div1">
-      <marquee>
-        Welcome to flipkart India pvt. ltd.(Nadia)
-      </marquee>
+     
+        
+     
     </div>
   </body>
 </html>
